@@ -1,0 +1,10 @@
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\bin\Debug\LearnNET.exe.config
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\bin\Debug\LearnNET.exe
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\bin\Debug\LearnNET.pdb
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.csprojAssemblyReference.cache
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.Form1.resources
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.Properties.Resources.resources
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.csproj.GenerateResource.cache
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.exe
+C:\Users\XWang2\source\repos\LearnNET\LearnNET\obj\Debug\LearnNET.pdb
