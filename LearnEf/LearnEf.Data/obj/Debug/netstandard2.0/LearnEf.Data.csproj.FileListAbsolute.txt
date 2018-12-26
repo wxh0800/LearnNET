@@ -1,0 +1,12 @@
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.csprojAssemblyReference.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.AssemblyInfoInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.AssemblyInfo.cs
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\bin\Debug\netstandard2.0\LearnEf.Domains.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\bin\Debug\netstandard2.0\LearnEf.Data.deps.json
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\bin\Debug\netstandard2.0\LearnEf.Data.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\bin\Debug\netstandard2.0\LearnEf.Data.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\bin\Debug\netstandard2.0\LearnEf.Domains.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.csproj.CopyComplete
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Data\obj\Debug\netstandard2.0\LearnEf.Data.pdb
