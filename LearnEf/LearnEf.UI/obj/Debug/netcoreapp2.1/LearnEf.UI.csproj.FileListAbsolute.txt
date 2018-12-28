@@ -1,0 +1,16 @@
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.Data.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.Domains.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.csprojAssemblyReference.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.AssemblyInfoInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.AssemblyInfo.cs
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.UI.deps.json
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.UI.runtimeconfig.json
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.UI.runtimeconfig.dev.json
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.UI.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.UI.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.Domains.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\bin\Debug\netcoreapp2.1\LearnEf.Data.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.csproj.CopyComplete
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.UI\obj\Debug\netcoreapp2.1\LearnEf.UI.pdb

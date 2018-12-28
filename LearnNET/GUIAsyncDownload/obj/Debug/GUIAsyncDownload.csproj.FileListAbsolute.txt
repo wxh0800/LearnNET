@@ -1,0 +1,10 @@
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\bin\Debug\GUIAsyncDownload.exe.config
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\bin\Debug\GUIAsyncDownload.exe
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\bin\Debug\GUIAsyncDownload.pdb
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.csprojAssemblyReference.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.Form1.resources
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.Properties.Resources.resources
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.csproj.GenerateResource.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.exe
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncDownload\obj\Debug\GUIAsyncDownload.pdb

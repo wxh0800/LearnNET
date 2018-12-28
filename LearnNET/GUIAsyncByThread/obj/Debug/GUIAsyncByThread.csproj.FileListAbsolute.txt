@@ -1,0 +1,10 @@
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\bin\Debug\GUIAsyncByThread.exe.config
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\bin\Debug\GUIAsyncByThread.exe
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\bin\Debug\GUIAsyncByThread.pdb
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.csprojAssemblyReference.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.Form1.resources
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.Properties.Resources.resources
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.csproj.GenerateResource.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.exe
+C:\Users\XWang2\source\repos\LearnNET\GUIAsyncByThread\obj\Debug\GUIAsyncByThread.pdb

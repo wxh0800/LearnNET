@@ -1,0 +1,9 @@
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.csproj.CoreCompileInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.AssemblyInfoInputs.cache
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.AssemblyInfo.cs
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\bin\Debug\netstandard2.0\LearnEf.Domains.deps.json
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\bin\Debug\netstandard2.0\LearnEf.Domains.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\bin\Debug\netstandard2.0\LearnEf.Domains.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.dll
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.pdb
+C:\Users\XWang2\Downloads\cmder\LearnEf\LearnEf.Domains\obj\Debug\netstandard2.0\LearnEf.Domains.csprojAssemblyReference.cache
