@@ -19,5 +19,15 @@ namespace SportsStore.Controllers
             repository.AddProduct(product);
             return RedirectToAction(nameof(Index));
         } 
+
+        public IActionResult UpdateProduct(long key) {
+            return View(repository.GetProduct(key));
+        }
+
+        [HttpPost]
+        public IActionResult UpdateProduct(Product product) {
+            repository.UpdateProduct(product);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
