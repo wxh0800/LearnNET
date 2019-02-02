@@ -1,0 +1,49 @@
+User Role (continued)
+
+1. Communication (Authorized Role : SUP, AUD, REV)
+   . only Authorized Roles can see Application->Communication / License->Communication on SideBar, otherwise it will be hidden
+   . only Authorized Roles can see Communications on NavBar, otherwise it will be hidden
+   . Add [Authorize(Roles = "SUP, AUD, REV")] on below view methods:
+      ==> Application Controller
+      		--> public IActionResult Communications(string applicationNum) (GET)
+      		--> public IActionResult Communications(Communication communication) (POST)
+
+      ==> License Controller
+            --> public IActionResult Communications(string licenseId) (GET)
+            --> public IActionResult Communications(Communication communication) (POST)
+
+      ==> Communication Controller
+            --> public IActionResult List(string applicationNum = null, int page = 1, int pageSize = 25, string query = null, string sort = null) (GET)
+            --> public IActionResult BulkCommunication() (GET)
+            --> public IActionResult Communications(Communication communication)
+            --> public IActionResult GetApplicationEmailTemplate(string name, string recordId) 
+            --> public IActionResult GetLicenseEmailTemplate(string name, string recordId)
+
+2. Application->Payment 
+   . Only SUP, FIN can see Update Payment Section, otherwise it will be hidden
+
+3. License Page (Note: There is not concept Assigned User as Application)
+   . Only SUP, AUD can see Administration Hold/Investigative Hold/Financial Hold checkbox and Hold License Button
+
+4. Admin->User (Authorized Role : SUP, IAD (ITS Admin))
+   . Only Authorized Role can see New User Button, for each user, only Authorized Role can see Edit/Active Icon, otherwise it will be hidden
+   . Add [Authorize(Roles = "SUP,IAD"] on below view method
+     ==> Admin Controller
+           --> public IActionResult CreateUser(UsersViewModel usersViewModel)
+           --> public IActionResult EditUser(UsersViewModel usersViewModel)
+           --> public IActionResult ActivateOrInactivate(string userListId, string isActive, UsersViewModel usersViewModel)
+
+5. Admin->BatchJob (Authorized Role : SUP, IAD (ITS Admin))
+   . Only Authorized Role can see Start Scheduler/Stop Scheduler/Create Batch Job Button, otherwise it will be hidden
+   . for each BatchJob, Only Authorized Role can see Edit/Start/Delete Icon, otherwise it will be hidden
+   . Add [Authorize(Roles = "SUP,IAD"] on below view method
+    ==> BatchJob Controller
+          --> public IActionResult Create([FromBody] BatchJob batchJob) (POST)
+          --> public IActionResult Create() (GET)
+          --> public IActionResult Delete(int batchJobId)
+          --> public IActionResult ActivateOrInactivate(int batchJobId, [FromQuery(Name = "Active")] bool activate)
+          --> public IActionResult StopScheduler()
+          --> public IActionResult StartScheduler()
+          --> public IActionResult Update([FromBody] BatchJob batchJob) (POST)
+          --> public IActionResult Update(int id) (GET)
+          --> public IActionResult BatchJobParameters(string jobname) 
