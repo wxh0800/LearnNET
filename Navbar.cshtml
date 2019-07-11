@@ -1,0 +1,100 @@
+@model string
+@{
+	var username = User.FindFirst(ClaimTypes.GivenName)?.Value ?? string.Empty;
+	var isSupervisor = User.IsInRole("SUP");
+	var isAssistant = User.IsInRole("REV");
+	var isAppAudit = User.IsInRole("AUD");
+	var isLegal = User.IsInRole("LEG");
+	var isEnforcement = User.IsInRole("ENF");
+	var isFinance = User.IsInRole("FIN");
+	var isITSAdmin = User.IsInRole("IAD");
+	var isAgencyAdmin = User.IsInRole("AAD");
+	var role = User.FindFirst(ClaimTypes.Role)?.Value ?? string.Empty;
+}
+
+<nav class="navbar navbar-expand-lg">
+
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#screen-tabs-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div id="screen-tabs-collapse" class="collapse navbar-collapse">
+		<ul class="navbar-nav mr-auto navbar-main">
+			@Html.NavbarListItem("~/", "Dashboard", Model.Contains("Dashboard"), "tachometer-alt")
+			@Html.NavbarListItem("~/Search/", "Search", Model.Contains("Search"), "search")
+			@Html.NavbarListItem("~/Application/List/", "Applications", Model.Contains("Application"), "copy")
+			@Html.NavbarListItem("~/License/List/", "Licenses", Model.Contains("License"), "address-card")
+			@Html.NavbarListItem("~/Entity/List/", "Entities", Model.Contains("Entity"), "building")
+			@Html.NavbarListItem("~/Payment/List/", "Payments", Model.Contains("Payment"), "credit-card")
+			@Html.NavbarListItem("~/Contact/List/", "Appraisers", Model.Contains("Contact"), "users")
+			@if (isSupervisor || isAppAudit || isAssistant || isAgencyAdmin ||isFinance)
+			{
+				@Html.NavbarListItem("~/Communication/List/", "Communications", Model.Contains("Communication"), "comments")
+			}
+			@if (isSupervisor || isAssistant || isAppAudit || isLegal || isEnforcement || isFinance || isAgencyAdmin)
+			{
+			<li class="nav-item dropdown @(Model.Contains("Report") ? "active" : "")">
+				<a class="nav-link dropdown-toggle" id="btnToggle3" href="#" role="button" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+					<i class="fa fa-file-invoice"></i> Reports
+				</a>
+				<ul class="dropdown-menu" aria-labelledby="btnToggle">
+					<h6 class="dropdown-header">Transaction Reports</h6>
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/RecordHistoryReport", "Record History Report")*@
+					@*@Html.NavbarListSubItem("~/Report/AffirmationsReport", "Affirmations Report")*@
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/AmendmentTypeReport/", "Amendment Type Report")*@
+					@Html.NavbarListSubItem("~/Report/DailyTransactionReport/", "Daily Transaction Report")
+					@Html.NavbarListSubItem("~/Report/RevenueReport", "Revenue Report")
+					@Html.NavbarListSubItem("~/Report/AnnualRosterReport", "Annual Roster Report")
+					@Html.NavbarListSubItem("~/Report/ASCReconciliationReport", "ASC Reconciliation Report")
+					<div class="dropdown-divider"></div>
+					<h6 class="dropdown-header">License/Application Reports</h6>
+					@Html.NavbarListSubItem("~/Report/TotalLicensedByCountyReport", "Total Licensed Report")
+					@Html.NavbarListSubItem("~/Report/ApplicationStatusReport", "Application Status Report")
+					@*Uncomment when these reports are set up*@
+					@*<div class="dropdown-divider"></div>
+					<h6 class="dropdown-header">Rejection Reports</h6>*@
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/Non-SufficientFundsReport", "NSF Report")*@
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/ViolationsReport", "Violations Report")*@
+					@*<div class="dropdown-divider"></div>
+					<h6 class="dropdown-header">Other Reports</h6>*@
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/VoterRegistrationReport", "Voter Registration Report")*@
+					@* NOT SET UP @Html.NavbarListSubItem("~/Report/OrganDonorReport", "Organ Donor Report")*@
+				</ul>
+			</li>
+			}
+			<li class="nav-item dropdown @((Model.Contains("BatchJob") || Model.Contains("Admin")) ? "active" : "")">
+				<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+					<i class="fa fa-user-tie"></i> Admin <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					@Html.NavbarListSubItem("~/Admin/AuditLog/", "Audit Log")
+					@if (isITSAdmin)
+					{
+						@Html.NavbarListSubItem("~/BatchJob/List/", "Batch Jobs")
+						@Html.NavbarListSubItem("~/Admin/Users/", "Users")
+					}
+				</ul>
+			</li>
+		</ul>
+		<ul class="navbar-nav ml-auto navbar-user">
+			<li class="nav-item dropdown">
+				<a href="#" id="navbar-user-dropdown-btn" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<i class="fa fa-user"></i>
+					<span>@username (@role)<span class="caret"></span>
+				</a>
+				<ul class="dropdown-menu">
+					@Html.NavbarListSubItem("~/Admin/LogOut", "Log Out")
+				</ul>
+			</li>
+		</ul>
+	</div>
+
+</nav>
+
+<script>
+	$(document).ready(function () {
+		$('.nav-link.dropdown-toggle').on('mouseenter', function () {
+			$(this).trigger('click');
+		});
+	});
+</script>
+

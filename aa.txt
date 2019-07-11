@@ -1,0 +1,408 @@
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=LxiL6Vbe0N8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=2&amp;t=2s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=8492pjt4WGI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=3&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CJT-AXo5XZw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=4&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=4vMGeJiIFvM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=5&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=8r3wBOitGow&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=6&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=BuYP2Jc3GYI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=7&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GHWEjR5Dea0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=8&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=TlCNoedcncw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=9&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=uZwWqipXdy8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=10&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=o2_OTf5RFQ4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=11&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=tTZspqXCzXE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=12&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=P85ywgPGLWw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=13&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=ZLmiwzrjJBM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=14&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OJq-PavRU6g&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=15&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=3TuFppyyHSE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=16&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=cb-qKcpWIwQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=17&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=5M7O41bxFqk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=18&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=YvCMbxSmdNg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=19&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=1uqig5zMTJw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=20&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=B9YKGWCZU90&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=21&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=qJgpay-VpUM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=22&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Xo1_R8cpeWY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=23&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oPZXaNQyvbE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=24&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GeuApDIfNs0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=25&amp;t=181s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=rO-mEsyqx24&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=26&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Kr1lgZH95yU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=27&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=HW5JfyI8hTI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=28&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=BUGBGGWWqvI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=29&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=PxHn71eIBVA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=30&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=BE7-Jq7kAEM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=31&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=wi5Uv69MV1Y&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=32&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RD7SHGfCwHk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=33&amp;t=76s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WyjKchks9tM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=34&amp;t=155s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=gPV2olkN_To&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=35&amp;t=63s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=sfFLcHJjlOE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=36&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=g8apcsdzj-c&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=37&amp;t=69s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=bG1G_TiZwso&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=38&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FZbOU8e4MI8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=39&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RajZ24vD0qY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=40&amp;t=112s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=m_eMtBa5kbE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=41&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=2ihLSsylyHA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=42&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=sUmTPpPESlA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=43&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q_GQDOoK9FQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=44&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=ZIRQpwMKS7U&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=45&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=LZ6BFGQ4WWA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=46&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=tZm1C4bPYZo&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=47&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=tZGmCtmW5lc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=48&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=v-EDfftp064&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=49&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=e9-fFV6SZ9M&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=50&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q63IFzIQWRQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=51&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=zq0j_GaV4Ew&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=52&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vT2MTkJ6RhU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=53&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=bc4s4z3lpj0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=54&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=xOCluR_q7Po&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=55&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=D9SnSfrYcFc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=56&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=gH0Y-plr6d0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=57&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=gu6tWNiP2xw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=58&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=DDfADfeHDcs&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=59&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=b8zWVxKL77E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=60&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=fglsgMLTkCQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=61&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7oVsvUvwiOw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=62&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=TL8AXVTODZY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=63&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=KFxCCbZAYA0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=64&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=b42b_Zv2eOw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=65&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WA5Ou8vAJl4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=66&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oqWX0hFjub8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=67&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q-p8h-wYagA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=68&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IFPwrB_9buY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=69&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=JqTJTViHhKE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=70&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RrTif_Ji8jg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=71&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=5wEx6lRv6VE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=72&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IwSfNbOcGXA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=73&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WeX4yRYZS1Q&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=74&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=2t6PRzGlLRY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=75&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=_8qP2WFQRFY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=76&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=tkirxZiRESU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=77&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vt7cdP6WVys&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=78&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=jgN0fANdhLQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=79&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=X0V7nfpUlFo&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=80&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Jy7L1ZzyFfo&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=81&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WU1NbcHlyk8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=82&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IRjlivjVfbc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=83&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RT7SYI-IPjM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=84&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7Av_zVQn6b4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=85&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Wf9qFo_JmJo&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=86&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Hqnb3UOoF9o&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=87&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=qfUMgx4Dysk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=88&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=B_hWgxoBtLE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=89&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7PYyU-Cs-uM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=90&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=xb0trEtBUng&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=91&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=tx_dmKnO_uc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=92&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=wstk2sy_xOk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=93&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=QjxOPMGb9jc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=94&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=QtkkovK77vg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=95&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=EcVZOxOA1U8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=96&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=rKSlCijI0e4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=97&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=1GHglWiQKAM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=98&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IrsIcDNT-Kc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=99&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=_F4mgQ6yMe4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=100&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=9ql1c4iQg80&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=101&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=E_JjUYJTrAw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=102&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=0T4_o-xZIro&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=103&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=iXcIsO86l-0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=104&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=VipPvDpsc8Y&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=105&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=b_Lb9N4KKMA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=106&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=EVE455Ih5iA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=107&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=UohBtcv68q4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=108&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=nqk-DFHZobc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=109&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=j0F5NCXd5k4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=110&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=VpE3Nmyn0fI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=111&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GucDNurIP60&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=112&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=adOcXebCYtA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=113&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=JlWvs9saOhQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=114&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=c2qWwWGx5oE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=115&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=VqGx9NgfnSw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=116&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=PE7xeAd_PqI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=117&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=9CG4aODB0Ck&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=118&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=kwhR-TZDO5E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=119&amp;t=2s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Ij_TJzcoYZ0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=120&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=14QKPD08mrk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=121&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=B5G9PIQb4zk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=122&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=NCYBaSRYcc8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=123&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hMECbiHLFuE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=124&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RrdXJGtgYrA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=125&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=yHyxZKla66E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=126&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=W2aYk0oqPDw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=127&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GwBDlfVGouk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=128&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FRWFsQ802Xg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=129&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=QXZ_S9a2Dao&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=130&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=5p0OewJY4h4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=131&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=monp4NlNQ74&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=132&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=3srQ1rhE5P8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=133&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=1IqoXguCgNk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=134&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vaEOXJrDZ7E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=135&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=o6h4oE8rZB8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=136&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=kEAh76nCx6E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=137&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=2JsII2xGLn4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=138&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=j9p8jkdgY74&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=139&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=wdvhMVMCnpk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=140&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=jJ7wbqzO7F8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=141&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=mQMi2buflAg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=142&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=XpW1SEkWIt0&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=143&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=IO-8IBxuD9s&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=144&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=YDlGaRCeArc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=145&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hzHSAsUG9Dw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=146&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=I9Iro79cn8s&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=147&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=_PqmLVLRzo4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=148&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=dRiTHHEN7sg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=149&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=HRqnJcRxTk4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=150&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=mC5DJXC11ok&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=151&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=1n952nW6tFY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=152&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CiREX1jNyh4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=153&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=XJTfVR9LxrQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=154&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CtZf1HVVUeg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=155&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=T9fLIVrueNg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=156&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=fOZtyjLYmvQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=157&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=8GWyZ83W0wQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=158&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=AWws2XcEa24&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=159&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=pWaIpDngM6k&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=160&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=B_PazY96emk&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=161&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=aGdDLzQ5gTA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=162&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Asle2hnQLQU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=163&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=_DmWVYMvQBc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=164&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=jfvweZucNJc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=165&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oIlmLzy7i78&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=166&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OLQkufnz8OA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=167&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GThOzamrWRc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=168&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=B5oW_6fHCug&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=169&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WE8w8e1M6M4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=170&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=iwFUBN4lYeM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=171&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FVUUkXmN5so&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=172&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Thr4ETi_LNc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=173&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=QSmKyhUjPL8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=174&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=rCLYtzCjRTM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=175&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=fuCDp-Nhem8&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=176&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=dg4emQxrdL4&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=177&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=mS0v6Zhw2vg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=178&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=uHG696Y97Io&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=179&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=wC_tT0AM5OQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=180&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=mb35jlgTylE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=181&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q2HOp_Ns5Lg&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=182&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=sqiwa5ah_7Y&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=183&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vJpeOzAXo08&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=184&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=81S7jFZT_uU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=185&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=wzQ8YO-NN8E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=186&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FEN2hxqSb4E&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=187&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=dLufvgvU_wM&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=188&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=VotaQLZN8yA&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=189&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=5yg9x_LDtvc&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=190&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=9y7b7jQZTQY&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=191&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=dg_iUQK4HfQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=192&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OxgSQrh-1GE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=193&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=2rpdT8E0poE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=194&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OsHnbp0gvkI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=195&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Q4n4Gvt6ndo&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=196&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FM_uVYhi_2k&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=197&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hJBg_oIhXiU&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=198&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7J8d-9XRZlE&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=199&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oknYMFhkF-M&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=200&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=kqTULguNIFw&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=201&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=DKqmVj7o7Ns&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=202&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=6hN_s1PqY6w&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=203&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vYGtwXdnKhI&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=204&amp;t=0s">
+          <ytd-thumbnail id="thumbnail" height="68" width="120" class="style-scope ytd-playlist-video-renderer">
+    <a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=0Rxahp5F5uQ&amp;list=PLat5PBX57wqZoDoWlEhqiDIr8Xe9toCoQ&amp;index=205&amp;t=0s">

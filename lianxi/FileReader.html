@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+		function showPreview(source) {
+			var file = source.files[0];
+			if(window.FileReader) {
+				var fr = new FileReader();
+				fr.onloadend = function(e) {
+					document.getElementById("portrait").src = e.target.result;
+				};
+				fr.readAsDataURL(file);
+			}
+        }
+        
+        window.onload = function() {
+            var btn = document.querySelector('#btn');
+            btn.onclick = function(){
+                console.log('1234');
+            }
+        }
+
+        // city data
+        $(function(){
+            // $('#btn').click(function(e){
+            //     console.log('1234');
+            //     console.log(this.value); // 'this' is a DOM element not a jQuery Object
+            // })
+
+            // var $inputArray = $('.input-box input');
+            // // console.dir($inputArray);
+            // $inputArray.focus(function(e){
+            //     console.log(this.value);
+            // })
+            
+        })
+   
+	</script>
+    <style>
+        .box {
+            position: absolute;
+            overflow: hidden;
+            border: 1px solid #ccc;
+        }
+
+        .left {
+            height: 200px;
+            width: 100px;
+        }
+
+        .box .aside {
+            display: none;
+            width: 100px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div style='display: none'>
+        <input type="file" name="file" onchange="showPreview(this)" /><br/>
+        <img id="portrait" src="" width="70" height="75"><br/>
+        <input type="button" value="button" id="btn">
+        <div class="input-box">
+            <input type="text" value="1">
+            <input type="text" value="2">
+            <input type="text" value="3">
+            <input type="text" value="4">
+        </div>
+        
+        <select name="pro" id="proSel"></select>
+        <select name="city" id="citySel"></select>
+    </div>
+    <div class="box">
+        <div class="left"></div>
+        <div class="aside"></div>
+    </div>
+</body>
+</html>

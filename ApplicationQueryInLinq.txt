@@ -1,0 +1,199 @@
+select app.APPLICATION_ID, app.APPLICATION_SPECIFIC_ID, app.SUBMITTED_DT, 
+	   app.LOCKED_BY_USR_ID, app.LOCKED_BY_USR_TS, app.ACTIVE_IND, 
+	   entity.BUS_LEGAL_NM, busentitytypecd.BUS_ENTITY_TYPE_NM, 
+	   busentitysubtypecd.BUS_ENTITY_SUB_TYPE_NM, 
+	   statuscd.STATUS_NM, 
+	   licapptypelkup.LIC_TYPE_CD, apptypecd.APP_TYPE_NM, 
+	   lic.AGENCY_LIC_NUMBER, lic.LIC_EFFECTIVE_DT, 
+	   lic.LIC_EXPIRATION_DT, 
+	   payment.PAYMENT_AMT, payment.CASHIER_ID, 
+	   hold.HOLD_TYPE_CD, appext.CODE_VALUE
+	   
+from LLT_APPLICATION app, 
+     LLT_BUSINESS_DETAILS busdetails, 
+	 LLT_ENTITY entity, 
+	 LLT_BUS_ENTITY_DTL_LKUP busentitylkup,
+	 LLT_BUS_ENTITY_TYPE_CD busentitytypecd, 
+	 LLT_BUS_ENTITY_SUB_TYPE_CD busentitysubtypecd, 
+	 LLT_STATUS_CD statuscd, 
+	 LLT_LICENSE_APP_TYPE_LKUP licapptypelkup, 
+	 LLT_APP_TYPE_CD apptypecd,
+	 LLT_LICENSE lic, 
+	 LLT_PAYMENT payment, 
+	 LLT_APPLICATION_EXT appext,
+	 LLT_HOLD hold
+	 
+where app.BUSINESS_DETAILS_ID=busdetails.BUSINESS_DETAILS_ID and 
+	  busdetails.ENTITY_ID=entity.ENTITY_ID and 
+	  entity.BUS_ENTITY_DTL_LKUP_ID=busentitylkup.BUS_ENTITY_DTL_LKUP_ID and
+	  busentitylkup.BUS_ENTITY_TYPE_CD=busentitytypecd.BUS_ENTITY_TYPE_CD and 
+	  busentitylkup.BUS_ENTITY_SUB_TYPE_CD=busentitysubtypecd.BUS_ENTITY_SUB_TYPE_CD and
+	  app.STATUS_CD=statuscd.STATUS_CD and 
+	  app.APP_TYPE_CD=licapptypelkup.APP_TYPE_CD and 
+	  licapptypelkup.APP_TYPE_CD=apptypecd.APP_TYPE_CD and 
+      app.APPLICATION_ID=lic.ACTIVE_APPLICATION_ID and 
+	  app.APPLICATION_ID=payment.APPLICATION_ID and 
+	  app.APPLICATION_ID=hold.APPLICATION_ID and 
+	  app.APPLICATION_ID=appext.APPLICATION_ID;
+	  
+	  
+select AUDIT_LOG_ID,USR_NM,ACTION_TAKEN,VIEWED,AUDIT_LOG_TYPE,AUDIT_DETAILS_JSON,length(AUDIT_DETAILS_JSON) as len from LLTDOSOWNER.LLT_AUDIT_LOG where AUDIT_DETAILS_JSON is not null ORDER BY len DESC ;  
+
+select busdtl.BUSINESS_DETAILS_ID , 
+       entity.BUS_LEGAL_NM,
+       busenttypecd.BUS_ENTITY_TYPE_NM,
+       busentsubtypecd.BUS_ENTITY_SUB_TYPE_NM
+from   LLT_BUS_ENTITY_DTL_LKUP busentdtllkup, 
+       LLT_BUS_ENTITY_TYPE_CD busenttypecd, 
+       LLT_BUS_ENTITY_SUB_TYPE_CD busentsubtypecd,
+       LLT_ENTITY entity,
+       LLT_BUSINESS_DETAILS busdtl
+where  busentdtllkup.BUS_ENTITY_TYPE_CD=busenttypecd.BUS_ENTITY_TYPE_CD and 
+       busentdtllkup.BUS_ENTITY_SUB_TYPE_CD = busentsubtypecd.BUS_ENTITY_SUB_TYPE_CD and
+       entity.BUS_ENTITY_DTL_LKUP_ID = busentdtllkup.BUS_ENTITY_DTL_LKUP_ID and
+       busdtl.ENTITY_ID = entity.ENTITY_ID
+	   
+select licapptypelkup.APP_TYPE_CD,licapptypelkup.LIC_TYPE_CD, apptypecd.APP_TYPE_NM
+from LLT_LICENSE_APP_TYPE_LKUP licapptypelkup,
+     LLT_APP_TYPE_CD apptypecd
+where licapptypelkup.APP_TYPE_CD = apptypecd.APP_TYPE_CD
+
+select app.APPLICATION_ID,
+       app.APPLICATION_SPECIFIC_ID,
+       app.SUBMITTED_DT,
+       app.LOCKED_BY_USR_ID,
+       app.LOCKED_BY_USR_TS,
+       app.ACTIVE_IND,
+       statuscd.STATUS_NM,
+       lic.AGENCY_LIC_NUMBER,
+       lic.LIC_EFFECTIVE_DT,
+       lic.LIC_EXPIRATION_DT,
+       payment.PAYMENT_AMT,
+       payment.CASHIER_ID
+from LLT_APPLICATION app
+     join LLT_STATUS_CD statuscd on app.STATUS_CD = statuscd.STATUS_CD
+     left join LLT_LICENSE lic on app.APPLICATION_ID = lic.ACTIVE_APPLICATION_ID
+     left join LLT_PAYMENT payment on app.APPLICATION_ID = payment.APPLICATION_ID;
+	 
+select app.APPLICATION_ID,
+       app.APPLICATION_SPECIFIC_ID,
+       app.SUBMITTED_DT,
+       app.LOCKED_BY_USR_ID,
+       app.LOCKED_BY_USR_TS,
+       app.ACTIVE_IND,
+       statuscd.STATUS_NM,
+       lic.AGENCY_LIC_NUMBER,
+       lic.LIC_EFFECTIVE_DT,
+       lic.LIC_EXPIRATION_DT,
+       payment.PAYMENT_AMT,
+       payment.CASHIER_ID
+from LLT_APPLICATION app
+     join LLT_STATUS_CD statuscd on app.STATUS_CD = statuscd.STATUS_CD
+     left join LLT_LICENSE lic on app.APPLICATION_ID = lic.ACTIVE_APPLICATION_ID 
+     left join LLT_PAYMENT payment on app.APPLICATION_ID = payment.APPLICATION_ID and payment.PRT_PAYMENT_ID is null
+     left join LLT_HOLD hold on app.APPLICATION_ID = hold.APPLICATION_ID
+     left join LLT_APPLICATION_EXT appext on appext.APPLICATION_ID = app.APPLICATION_ID
+    ;
+	
+select new Models.Application {
+	Id = (int)app.Id,
+	ApplicationNum = app.ApplicationNum,
+	//EntityName = entity.LegalName,
+	//EntityType = bustype.Name,
+	//EntitySubType = bussubtype.Name,
+	Status = status.Name,
+	StatusCode = status.Code,
+	Type = apptype.Name,
+	TypeCode = app.TypeCode,
+	SubmittedAt = app.SubmittedAt,
+	LicenseNum = license.AgencyLicenseNum,
+	LicenseEffectiveAt = license.EffectiveAt,
+	LicenseExpirationAt = license.ExpirationAt,
+	FeeReceived = payment.Amount,
+	CashNum = payment.CashierId,
+	AssignedTo = app.LockedByUser,
+	AssignedAt = app.LockedTimestamp,
+	IsActive = app.IsActive.Equals("Y"),
+	IsAdminHold = app.Holds.Any(hold => hold.TypeCode == "ADM" && hold.IsActive == "1") ? "Y" : "N",
+	IsFinancialHold = app.Holds.Any(hold => hold.TypeCode == "FIN" && hold.IsActive == "1") ? "Y" : "N",
+	IsInvestigativeHold = app.Holds.Any(hold => hold.TypeCode == "ENF" && hold.IsActive == "1") ? "Y" : "N",
+};
+var result = query.ToList();
+
+
+var context = _unitOfWork.getContext();
+				
+				var queryentity = from busdtl in context.BusinessDetails
+								  join entity in context.Entities on busdtl.EntityId equals entity.Id
+								  join bustypedtl in context.BusinessTypeDetails on entity.BusinessTypeDetailsId equals bustypedtl.Id
+								  join bustype in context.BusinessTypes on bustypedtl.TypeCode equals bustype.Code
+								  join bussubtype in context.BusinessSubTypes on bustypedtl.SubTypeCode equals bussubtype.Code
+								  select new
+								  {
+									  BusinessDetailsId = busdtl.Id,
+									  entityname = entity.LegalName,
+									  typename = bustype.Name,
+									  subtypename = bussubtype.Name
+								  };
+
+				var querylicapptype = from licapptype in context.LicenseApplicationTypes
+									  join apptype in context.ApplicationTypes on licapptype.ApplicationTypeCode equals apptype.Code
+									  select new
+									  {
+										  licapptype.CategoryCode,
+										  licapptype.ApplicationTypeCode,
+										  apptype.Name
+									  };
+
+				var query = from app in applications
+							join license in context.Licenses on app.Id equals license.ActiveApplicationId into applics
+							from applic in applics.DefaultIfEmpty(new DAL.License())
+							join payment in context.Payments on app.Id equals payment.ApplicationId into apppayments
+							from apppay in apppayments.DefaultIfEmpty(new DAL.Payment())
+							join status in context.Statuses on app.StatusCode equals status.Code into appstatuses
+							from appstatus in appstatuses
+							join hold in context.Holds on app.Id equals hold.ApplicationId into appholds
+							join lichold in context.Holds on applic.Id equals lichold.LicenseId into licholds
+							join entity1 in queryentity on app.BusinessDetailsId equals entity1.BusinessDetailsId into entities
+							from entity in entities.DefaultIfEmpty(null)
+							join lictype in querylicapptype on app.TypeCode equals lictype.ApplicationTypeCode
+							join appext in context.ApplicationExtensions on app.Id equals appext.ApplicationId into appexts
+							where apppay.ParentPayment == null 
+							select new Models.Application {
+								Id = (int)app.Id,
+								ApplicationNum = app.ApplicationNum,
+								EntityName = entity == null ? "" : entity.entityname,
+								EntityType = entity == null ? "" : entity.typename,
+								EntitySubType = entity == null ? "" : entity.subtypename,
+								Status = appstatus.Name,
+								StatusCode = appstatus.Code,
+								Type = lictype.Name,
+								TypeCode = lictype.ApplicationTypeCode,
+								SubmittedAt = app.SubmittedAt,
+								LicenseNum = applic.AgencyLicenseNum,
+								LicenseEffectiveAt = applic.EffectiveAt,
+								LicenseExpirationAt = applic.ExpirationAt,
+								FeeReceived = apppay.Amount,
+								CashNum = apppay.CashierId,
+								AssignedTo = app.LockedByUser,
+								AssignedAt = app.LockedTimestamp,
+								IsActive = app.IsActive.Equals("Y"),
+								IsAdminHold = appholds.Any(hold => hold.TypeCode == "ADM" && hold.IsActive == "1") ? "Y" : "N",
+								IsFinancialHold = appholds.Any(hold => hold.TypeCode == "FIN" && hold.IsActive == "1") ? "Y" : "N",
+								IsHold = appholds.Count() > 0 ? "A" : (licholds.Count()>0 ? "N" : string.Empty),
+								IsInvestigativeHold = appholds.Any(hold => hold.TypeCode == "ENF" && hold.IsActive == "1") ? "Y" : "N",
+								ExternalApplicationId = app.ExternalApplicationId,
+								AppAuditStatus = appexts.Where(appext => appext.Name == "AppAuditReview").FirstOrDefault()?.Value,
+								AdministrativeHoldStartDt = appholds.Where(hold => hold.TypeCode == "ADM").FirstOrDefault()?.StartDate,
+								AdministrativeHoldEndDt = appholds.Where(hold => hold.TypeCode == "ADM").FirstOrDefault()?.EndDate,
+								InvestigativeHoldStartDt = appholds.Where(hold => hold.TypeCode == "ENF").FirstOrDefault()?.StartDate,
+								InvestigativeHoldEndDt = appholds.Where(hold => hold.TypeCode == "ENF").FirstOrDefault()?.EndDate,
+								FinancialHoldStartDt = appholds.Where(hold => hold.TypeCode == "FIN").FirstOrDefault()?.StartDate,
+								FinancialHoldEndDt = appholds.Where(hold => hold.TypeCode == "FIN").FirstOrDefault()?.EndDate,
+								AnnualRosterStartDate = Convert.ToDateTime(appexts.Where(ApplicationExtension => ApplicationExtension.Name == "ANNUALREPORTSTARTDATE").FirstOrDefault()?.Value),
+								AnnualRosterEndDate = Convert.ToDateTime(appexts.Where(ApplicationExtension => ApplicationExtension.Name == "ANNUALREPORTENDDATE").FirstOrDefault()?.Value),
+							};
+				var result = query.ToList();
+
+				return result;
+				
